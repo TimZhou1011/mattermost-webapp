@@ -128,6 +128,7 @@ exports[`components/admin_console/group_settings/group_details/GroupDetails shou
         "66666666666666666666666666",
       ]
     }
+    groupID="xxxxxxxxxxxxxxxxxxxxxxxxxx"
     onChannelsSelected={[Function]}
     onModalDismissed={[Function]}
   />
