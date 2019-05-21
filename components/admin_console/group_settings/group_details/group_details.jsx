@@ -184,6 +184,7 @@ export default class GroupDetails extends React.PureComponent {
                         onModalDismissed={this.closeAddChannel}
                         onChannelsSelected={this.addChannels}
                         alreadySelected={this.props.groupChannels.map((channel) => channel.channel_id)}
+                        groupID={this.props.groupID}
                     />
                 }
 
